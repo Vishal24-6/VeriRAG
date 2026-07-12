@@ -4,7 +4,7 @@ sentence-transformers
 faiss-cpu
 numpy
 groq
-ddgs
+duckduckgo-search
 python-dotenv
 torch
 transformers
