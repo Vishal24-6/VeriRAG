@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+.venv/
+
+# Test PDFs (not needed in deployment)
+docs/*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables (secrets)
+.env
+
+# Vector DB storage
+vector_db/
+
+# IDE
+.vscode/
+.idea/
+
+# Personal study / learning materials (not for GitHub)
+ARCHITECTURE_DIAGRAMS.md
+DEVELOPMENT_WALKTHROUGH.md
+verirag_interview_cheatsheet.md
+technical_concepts_cheatsheet.md
+
+# OS
+.DS_Store
+Thumbs.db
